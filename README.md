@@ -1,1 +1,2 @@
-# readme
+HELLO WORLD
+IDK WHAT IS GOING ON XD
